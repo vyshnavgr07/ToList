@@ -1,0 +1,75 @@
+.todo-container{
+    background: #f0efef;
+    width: 70vw;
+    margin: 10em;
+    border-radius: 10px;
+    padding: 15px;
+    color: rgb(4, 1, 1);
+    font-weight: bold;
+
+}
+
+.header{
+    font-size:3em;
+    text-align: center;
+}
+
+.input-container{
+    background: #c0bebe;
+    padding: 0.5;
+    border-radius: 1em;
+    border: 5px solid rgb(245, 241, 241);
+}
+
+.input{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+    border: 1px;
+    border-radius: 1em;
+    padding: .5em;
+    margin: 1em;
+    width: 80%;
+    
+
+}
+.add-btn{
+    border-radius: 7px;
+    font-size: 2em;
+    margin: 2px;
+    padding: 0px 15px;
+    border: none;
+    cursor: pointer;
+    color: black;
+    background-color: #1ab9f7;
+
+}
+
+.list-task{
+    font-size:1.5em;
+    font-weight: bold;
+    font-style:italic ;
+    color: black;
+    background-color:#c0bebe;
+    border: 5px solid #f0f5f7;
+    border-radius: 5px;
+    padding: 0.5em;
+    margin: 0.5em;
+}
+
+.delete-btn{
+    border-radius:5px;
+    margin:0px 5px;
+     padding: 3px,5px;
+     border: none;
+     cursor: pointer;
+     color: black;
+     background-color: #c50303;
+     float: right;
+     font-size: 1em;
+
+    
+}
+
+
